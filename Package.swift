@@ -24,6 +24,6 @@ let package = Package(
         .target(
             name: "Sync",
             dependencies: [],
-            path: "Source")),
+            path: "Source"))
     ]
 )
